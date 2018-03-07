@@ -57,7 +57,7 @@ Class Bom {
         $send = $this->sendC($url, null, $data);
         // echo $send;
         if (preg_match('/otp_attempt_left/', $send)) {
-                print('Paket Di Proses');
+                print('\n Paket Di Proses');
             } else {
                 print('Paket Gagal Dikirim');
             }
