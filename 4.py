@@ -45,5 +45,5 @@ for number in numbers:
 	thread.start_new_thread(process, ( number, ))
 while processc != count:
 	pass
-print("[-----done-----]: Success Send Semua Ke No Contact")
+print("[-----done-----]: Success Send Semua Ke No List")
 sys.exit()
