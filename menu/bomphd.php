@@ -50,7 +50,7 @@ Class Bom {
         $data = "phone_number={$no}";
         $send = $this->sendC($url, null, $data);
         if (preg_match('/We have sent an OTP to your phone, Please enter the 4 digit code./', $send)) {
-                print(" \e[92m [MISIL MELUNCUR]..!\n");
+                print(" \e[92m \n[SUKSES] …! [MISIL MELUNCUR]..!\n");
                 
             } else {
                 print(" [GAGAL] …! [MISIL DI TEMBAK JATUH OLEH MUSUL]\n");
