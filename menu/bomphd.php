@@ -53,7 +53,7 @@ Class Bom {
                 print(" \e[92m \n[SUKSES] …! [MISIL MELUNCUR]..!\n");
                 
             } else {
-                print(" [GAGAL] …! [Batas Limit SPAM PHD Hari Ibi Sudah Habis, Silahkan Coba Besok Lagi ]\n");
+                print(" [GAGAL] …! [Batas Limit SPAM PHD Hari Ini Sudah Habis, Silahkan Coba Besok Lagi ]\n");
             }
     }
 
