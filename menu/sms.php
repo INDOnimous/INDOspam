@@ -23,9 +23,11 @@ function jdidbom($no, $jum, $wait){
 echo "
 ############################################################
     Spammer SMS From JD.ID
-    Coded By    : ZeroSvn
-    Contact Me  : babbycyberteam@gmail.com
-    Date        : 12/12/2017
+    Mod By      : Gebang Kiidiw
+    Contact Me  : gebangkiidiw@gmail.com
+    Blog        : www.gebangkiidiw.com
+    Youtube     : Gebang Kiidiw
+    Instagram   : @Bang_Joss24
     Thanks to   : BabbyCyberTeam & SGB-TEAM
     Penggunaan  : Awali Dengan Angka [8]
 ############################################################\n";
