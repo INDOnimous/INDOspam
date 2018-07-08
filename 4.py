@@ -1,9 +1,14 @@
-print("""\
-   __  __________  __
-  /  |/  /  _/ _ \/ / | Make-It-Ring!
- / /|_/ // // , _/_/  | Author: P4kL0nc4t
-/_/  /_/___/_/|_(_)   | https://github.com/p4kl0nc4t
-""")
+print(
+        "\n###################################################"
+        "\n          Prank CALL"
+        "\n     Mod By     : Gebang Kiidiw"
+        "\n     Contact Me : gebangkiidiw@gmail.com"
+        "\n     Blog       : www.gebangkiidiw.com"
+        "\n     Youtube    : Gebang Kiidiw"
+        "\n     Instagram  : @Bang_Joss24"
+        "\n     Thanks To  : p4kl0nc4t"
+        "\n###################################################"
+)
 import thread
 import requests
 import sys
@@ -45,5 +50,5 @@ for number in numbers:
 	thread.start_new_thread(process, ( number, ))
 while processc != count:
 	pass
-print("[-----done-----]: Success Send Semua Ke No List")
+print("[-----done-----]: Success!! CALL Meluncur :D Jangan Lupa Subscribe Gebang Kiidiw")
 sys.exit()
