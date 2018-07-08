@@ -1,2 +1,9 @@
-Masukan Nomer Target
-WWW.GEBANGKIIDIW.COM
+Masukan Nomer Target disini Lebih dari satu juga bisa
+
+contoh:
+083824xxxxxx
+081225xxxxxx
+08999xxxxxxx
+
+Yt Gebang Kiidiw
+Blog www.gebangkiidiw.com
