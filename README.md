@@ -16,6 +16,7 @@ $pkg install git
 $pkg install python2
 $pkg install ruby
 $gem install lolcat
+$pkg install php
 $git clone https://github.com/INDOnimous/INDOspam
 $cd INDOspam
 $python2 INDOspam.py
@@ -30,6 +31,7 @@ $python2 INDOspam.py
 $apt-get install git
 $apt-get install python2 ruby
 $gem install lolcat
+$pkg install php
 $git clone https://github.com/INDOnimous/INDOspam
 $cd INDOspam
 $python2 INDOspam.py
