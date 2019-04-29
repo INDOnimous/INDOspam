@@ -22,7 +22,7 @@ $python2 INDOspam.py
 ```
 *after download spammer sms open your file explorer*
 
-*find folder INDOvirus and open it*
+*find folder INDOspam and open it*
 
 *chose and open folder Android if you download virus Android*
 ### Installation Linux
