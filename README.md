@@ -16,12 +16,11 @@ $pkg install git
 $pkg install python2
 $pkg install ruby
 $gem install lolcat
-$git clone https://github.com/INDOnimous/INDOvirus
-$cd INDOvirus
-$pip2 install -r requirements.txt
-$python2 INDOvirus.py
+$git clone https://github.com/INDOnimous/INDOspam
+$cd INDOspam
+$python2 INDOspam.py
 ```
-*after download virus open your file explorer*
+*after download spammer sms open your file explorer*
 
 *find folder INDOvirus and open it*
 
@@ -31,8 +30,7 @@ $python2 INDOvirus.py
 $apt-get install git
 $apt-get install python2 ruby
 $gem install lolcat
-$git clone https://github.com/INDOnimous/INDOvirus
-$cd INDOvirus
-$pip2 install -r requirements.txt
-$python2 INDOvirus.py
+$git clone https://github.com/INDOnimous/INDOspam
+$cd INDOspam
+$python2 INDOspam.py
 ```
